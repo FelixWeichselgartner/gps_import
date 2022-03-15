@@ -2,6 +2,8 @@
 
 Use this tool (https://www.mapdevelopers.com/distance_finder.php) to select an area and import the GPS coordinates into python. 
 
+![example](example_italy.png)
+
 
 ## Usage
 
